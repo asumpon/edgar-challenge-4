@@ -8,7 +8,7 @@ Fuels
 Sea-level
 Sea
 Temperature
-Renewableenergy
+Renewable
 UNFCC
 COP
 Paris
@@ -29,7 +29,6 @@ Preventativemeasures
 Preventative
 Carbon
 Ecosystem
-Energy
 Fuel
 Thermal
 Geosphere
@@ -51,7 +50,6 @@ preventative
 innovation
 carbon
 ecosystem
-energy
 fuel
 greenhouse
 carbon
@@ -63,7 +61,6 @@ emissions
 water
 hydrogen
 wave
-gas
 global
 warming
 temperature
@@ -81,6 +78,7 @@ greenhouseclimate
 ozone
 radiation
 chlorofluorocarbons
+sustainable
 cfcs
 hcfcs
 fracture
@@ -92,3 +90,8 @@ halons
 methylchloroform
 carbontetrachloride
 methylbromide 
+esg
+esgfund
+spills
+clean
+sustainability
